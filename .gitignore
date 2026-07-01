@@ -20,3 +20,5 @@ Thumbs.db
 bin/
 out/
 mysql_data/
+mysql-connector-j-*/
+*.jar
