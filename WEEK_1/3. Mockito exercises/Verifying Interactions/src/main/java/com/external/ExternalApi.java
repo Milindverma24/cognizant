@@ -1,4 +1,5 @@
-package com.external;
+package com.sudip;
 
-public class ExternalApi {
+public interface ExternalApi {
+    void getData(String id, int count);
 }
