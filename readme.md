@@ -26,7 +26,9 @@ cognizant_assignment/
 ├── WEEK_4/          → Spring REST, Microservices, API Gateway & JWT
 ├── WEEK_5/          → ReactJS Fundamentals (HOL 1–5)
 ├── WEEK_6/          → Advanced ReactJS (HOL 9–13)
-├── WEEK_7/          → Git Version Control Labs (HOL 1–5)
+├── WEEK_7/          → Git Version Control & Angular 20 Student Course Portal
+│   └── Angular/
+│       └── student-course-portal/  → Integrated Production Angular Application
 │
 ├── .gitignore       → Repository ignore rules
 └── readme.md        → This file
