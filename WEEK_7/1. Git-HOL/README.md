@@ -183,3 +183,4 @@ git push -u origin main
 ```
 *(Use `git push -u origin master` if your branch is `master`)*
 
+![Push welcome.txt](screenshots/step3_push.png)

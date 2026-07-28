@@ -22,3 +22,7 @@ out/
 mysql_data/
 mysql-connector-j-*/
 *.jar
+
+# Assignment templates and GitDemo sandbox
+Digital-Nurture-JavaFSE-main/
+GitDemo/
